@@ -1,0 +1,176 @@
+@media screen and (max-width: 480px) {
+    .header_top__menu, .first_screen_right {
+        display: none;
+    }
+    .two_screen__left {
+        display: none;
+    }
+    .wrapper {
+        padding: 0 20px;
+    }
+    .first_screen_button {
+         position: initial;
+        margin: 25px auto 0;
+    }
+    .first_screen__left h1 {
+        font-weight: bold;
+        font-size: 60px;
+        line-height: 70px;
+            }
+    .first_screen {
+        padding-bottom: 50px;
+        background: teal;
+        height: 100vh;
+    }
+    .first_screen__left p {
+        color: #FFFFFF;
+    }
+    .button_mobile {
+        display: flex;
+    }
+    .two_screen__right {
+        max-width: 515px;
+        padding-top: 100px;}
+
+    .two_screen__right p{
+        margin-bottom: 20px;
+            }
+     .two_screen__right h4 {
+        font-size: 45px;
+        line-height: 45px;
+     }
+    .three_screen_main {
+        display: block;
+    }
+    .three_screen_left, .three_screen_centr, .three_screen_right {
+        padding-top: 5px;
+        width: 200px;}
+
+    .three_screen_button_pink {
+        display: flex;
+        justify-content: center;
+    }
+    .four_pink_header h4 {
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 50px;
+        width: 400px;
+        padding-top: 30px;}
+
+    .four_screen_left, .four_screen_centr, .four_screen_right {
+        padding-top: 0;
+    }
+    .four_screen_main {
+        display: block;
+    }
+    .four_pink_section {
+        height: 700px;
+        width: 480px;
+       }
+    .four_screen_left__img, .four_screen_centr__img, .four_screen_right__img {
+        display: none;
+    }
+    .five_Logo {
+        display: block;
+        height: 1300px;
+    }
+    .five_Logo_Header h4 {
+        padding-top:50px;
+        font-weight: bold;
+    }
+    .five_Logo_main {
+        display: block;
+        padding-top: 10px;
+    }
+    .five_Logo_Left, .five_Logo_centr, .five_Logo_right {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .six_hab_text p {
+        width: 400px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 20px;
+        line-height: 31px;
+        margin-bottom: 79px;
+    }
+    .six_button {
+        display: flex;
+        justify-content: center;
+    }
+    .six_hab {
+        height: 400px;
+        padding-top: 40px;
+        column-gap: 150px;
+    }
+    .six_hab img {
+        display: none;
+    }
+
+
+    .seven_switch {
+        display: block;
+        height: 450px;
+        width: 480px;
+        background: #8BD4D6;
+
+    }
+
+    .seven_switch_colored {
+        display: block;
+        width: 440px;
+    }
+    .seven_switch_header {
+        flex-direction: column;
+        margin-left: 0;
+
+    }
+    .seven_switch_header h4 {
+        width: 400px;
+        font-weight: bold;
+        font-size: 46px;
+        line-height: 56px;
+        padding-top: 89px;
+    }
+
+    .seven_switch_button {
+        display: flex;
+        justify-content: center;
+        padding-top: 70px;
+    }
+    .seven_button {
+      margin: 0 auto;
+    }
+    .eight_menu_List {
+        display: block;
+    }
+    .eight_basement_haight_menu {
+        width: 480px;
+        height: 900px;
+        background: #302E3F;
+    }
+
+    .eight_menu_List h4 {
+        padding-top: 20px;
+    }
+    .eight_List_bottom {
+       padding-top: 10px;
+    }
+    .eight_basement_bottom {
+        width: 480px;
+        height: 180px;
+    }
+
+    .eight_last_menu {
+        display: block;
+        height:200px;
+        width: 480px;
+    }
+    .eight_last_img {
+        display: flex;
+        justify-content: center;
+        top: 70px;
+    }
+
+}
