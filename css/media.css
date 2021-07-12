@@ -50,6 +50,9 @@
         display: flex;
         justify-content: center;
     }
+    .three_screen_right h4 {
+        width: 440px;}
+
     .four_pink_header h4 {
         font-weight: bold;
         font-size: 40px;
